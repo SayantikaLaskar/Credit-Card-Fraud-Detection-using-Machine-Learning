@@ -9,8 +9,11 @@ Features :
 
 -Machine Learning Models: Implementation of powerful machine learning models, including but not limited to:
                           -Logistic Regression
+                          
                           -Random Forest
+                          
                           -Support Vector Machines (SVM)
+                          
                           -Neural Networks
                           
 -Evaluation Metrics: Detailed analysis of model performance using metrics such as precision, recall, F1 score, and ROC-AUC to ensure a balanced assessment.
