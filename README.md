@@ -7,14 +7,7 @@ This repository contains a comprehensive machine learning solution for detecting
 Features : 
 -Data Preprocessing: Robust data cleaning and preprocessing pipelines to handle outliers, missing values, and feature engineering.
 
--Machine Learning Models: Implementation of powerful machine learning models, including but not limited to:
-                          -Logistic Regression
-                          
-                          -Random Forest
-                          
-                          -Support Vector Machines (SVM)
-                          
-                          -Neural Networks
+-Machine Learning Models: Implementation of powerful machine learning models, including but not limited to: Logistic Regression, Random Forest, Support Vector Machines (SVM), Neural Networks.
                           
 -Evaluation Metrics: Detailed analysis of model performance using metrics such as precision, recall, F1 score, and ROC-AUC to ensure a balanced assessment.
 
